@@ -1,2 +1,2 @@
 # graphqlpublic
-exercise graphql
+exercise graphql edited
